@@ -17,7 +17,7 @@ author:
     #   url: https://www.zhihu.com/people/你的知乎ID # 可选：加其他社交平台
 
 # 核心配置（别改，适配GitHub Pages）
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default # 主题皮肤：default（默认白）/ dark（暗黑）/ mint（薄荷绿），可自己换
 locale: zh-CN # 语言：中文
 timezone: Asia/Shanghai # 时区：上海
